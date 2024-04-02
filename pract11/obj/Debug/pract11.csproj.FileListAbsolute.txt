@@ -1,0 +1,11 @@
+\\Desktopobnesaim\Сетевая папка\22и1\глазов\visual proekt\pract11\bin\Debug\pract11.exe.config
+\\Desktopobnesaim\Сетевая папка\22и1\глазов\visual proekt\pract11\bin\Debug\pract11.exe
+\\Desktopobnesaim\Сетевая папка\22и1\глазов\visual proekt\pract11\bin\Debug\pract11.pdb
+\\Desktopobnesaim\Сетевая папка\22и1\глазов\visual proekt\pract11\obj\Debug\pract11.csproj.AssemblyReference.cache
+\\Desktopobnesaim\Сетевая папка\22и1\глазов\visual proekt\pract11\obj\Debug\pract11.csproj.SuggestedBindingRedirects.cache
+\\Desktopobnesaim\Сетевая папка\22и1\глазов\visual proekt\pract11\obj\Debug\pract11.Form1.resources
+\\Desktopobnesaim\Сетевая папка\22и1\глазов\visual proekt\pract11\obj\Debug\pract11.Properties.Resources.resources
+\\Desktopobnesaim\Сетевая папка\22и1\глазов\visual proekt\pract11\obj\Debug\pract11.csproj.GenerateResource.cache
+\\Desktopobnesaim\Сетевая папка\22и1\глазов\visual proekt\pract11\obj\Debug\pract11.csproj.CoreCompileInputs.cache
+\\Desktopobnesaim\Сетевая папка\22и1\глазов\visual proekt\pract11\obj\Debug\pract11.exe
+\\Desktopobnesaim\Сетевая папка\22и1\глазов\visual proekt\pract11\obj\Debug\pract11.pdb
